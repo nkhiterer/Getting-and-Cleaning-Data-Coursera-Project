@@ -1,4 +1,4 @@
-This repository contains five files:
+This repository contains of five files:
 
 1. Codebook.md- automated codebook which uses as an input for this project the tidydataset.txt file from step5.
 Codebook.md needs to be renamed to Codebook.Rmd to run it in R-Studio. I belive, it could be used for any other input appropriate.
