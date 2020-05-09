@@ -28,7 +28,16 @@ The purpose of this project to create one R script called run_analysis.R that do
 5/From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
 6/Create a Codebook.md for the project
--------------------------------------------------------------------------------------------------------
+
+To generate an automated codebook,  Codebook.md, the following article was used:
+
+How to automatically document data with the codebook package to facilitate
+data re-use forthcoming in Advances in Methods and Practices in Psychological Science
+Author: Ruben C. Arslan
+Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin ruben.arslan@gmail.com 
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 Source for the data used:
 
 Human Activity Recognition Using Smartphones Dataset
@@ -151,7 +160,7 @@ Data used for the purpose of the project "run_analysis.R" were:
 - 'test/X_test.txt': Test set.
 - 'test/y_test.txt': Test labels.
 
-To generate this automated codebook, the article was used:
+To generate an automated codebook, the article was used:
 
 How to automatically document data with the codebook package to facilitate
 data re-use forthcoming in Advances in Methods and Practices in Psychological Science
